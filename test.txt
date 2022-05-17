@@ -1,1 +1,1 @@
-this file is crerated to test some git upstream commands ater forkingg from other account.
+this file is crerated to test some git upstream commands ater forking from other account.
